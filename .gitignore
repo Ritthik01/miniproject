@@ -48,3 +48,4 @@ terraform.rc
 __pycache__/
 .venv/
 terraform.tfvars
+*.tfplan
