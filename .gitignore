@@ -47,3 +47,4 @@ terraform.rc
 .env
 __pycache__/
 .venv/
+terraform.tfvars
